@@ -24,7 +24,7 @@ def load_model():
 @st.cache_data
 def load_data():
     # Loading dataset for the "Auto-fill" feature
-    return pd.read_csv("creditcard.csv")
+    return pd.read_csv("sample_transactions.csv")
 
 model = load_model()
 df = load_data()
