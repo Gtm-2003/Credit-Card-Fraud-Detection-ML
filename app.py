@@ -127,7 +127,7 @@ with tab1:
                 # Explainability Section
                 st.markdown("---")
                 st.write("**Why this result?**")
-                st.write(f"The prediction is based on a sample {pattern_type.lower()} selected from the dataset. " f"PCA-transformed features (v1-v28) are retained for prediction. " f"The calculated fraud probability is{prob:.2%}.")
+                st.write(f"The prediction is based on a  {pattern_type.lower()} selected from the dataset. " f"PCA-transformed features (v1-v28) are retained for prediction. " f"The calculated fraud probability is {prob:.2%}.")
 
 # =====================================================
 # 🔹 BATCH PREDICTION
