@@ -43,25 +43,25 @@ A Streamlit web application was built to demonstrate fraud detection through:
 
 ## 🏠 Home Page
 
-![Home Page](images/home.png)
+![Home Page](images/home.PNG)
 
 ---
 
 ## ✅ Sample Legitimate Transaction Prediction
 
-![Legitimate Prediction](images/legitimate_prediction.png)
+![Legitimate Prediction](images/legitimate_prediction.PNG)
 
 ---
 
 ## 🚨 Sample Fraudulent Transaction Prediction
 
-![Fraud Prediction](images/fraud_prediction.png)
+![Fraud Prediction](images/fraudulent_prediction.PNG)
 
 ---
 
 ## 📂 Batch Prediction
 
-![Batch Prediction](images/batch_prediction.png)
+![Batch Prediction](images/batch_prediction.PNG)
 
 ---
 
